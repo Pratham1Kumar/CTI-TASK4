@@ -81,3 +81,4 @@ Ensure that all third-party vendors and service providers (e.g., cloud storage p
 Data Processing Agreements (DPA): Have a DPA in place with all third-party vendors that outlines data handling responsibilities and ensures they adhere to compliance requirements.
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/74f6ce81-4f47-412f-86a3-39391c5ccc8d)
